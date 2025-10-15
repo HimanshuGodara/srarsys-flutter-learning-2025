@@ -27,8 +27,8 @@ In this project, we build a simple ToDo App covering:
 | Student Name | Repo Link |
 |---------------|-----------|
 | Add your name below |  |
+|Poojitha Emani | https://github.com/poojithaemani/Todo-App.git|
 | ... |  |
-
 ---
 
 📘 *Tip:* Keep your repo public so others can view and learn from your implementation.
