@@ -28,6 +28,7 @@ In this project, we build a simple ToDo App covering:
 |---------------|-----------|
 | Add your name below |  |
 | ... |  |
+Poojitha Emani | git@github.com:poojithaemani/Todo-App-Starter.git 
 
 ---
 
